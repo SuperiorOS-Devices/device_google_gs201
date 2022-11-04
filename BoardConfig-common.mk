@@ -415,4 +415,4 @@ BOARD_KERNEL_CMDLINE += log_buf_len=1024K
 # Protected VM firmware
 BOARD_PVMFWIMAGE_PARTITION_SIZE := 0x00100000
 
-include device/google/gs201/BoardConfig-calyx.mk
+include device/google/gs201/BoardConfig-superior.mk
